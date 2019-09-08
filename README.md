@@ -1,5 +1,5 @@
 Task1:
-Propose new or amended rules so that the grammar generates examples (i-viii) below, but not the ungrammatical (ix-xii). Explain your answers.
+Propose new or amended rules so that the grammar generates examples (i-viii) below, but not the ungrammatical (ix-xii).
 
 i. 76 trombones led the big parade.
 
